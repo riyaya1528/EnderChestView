@@ -1,0 +1,7 @@
+name: EnderChestView
+version: '${project.version}'
+main: riyaya1528.paper.enderchestview.EnderChestView
+api-version: 1.17
+commands:
+  enderchest:
+    usage: ""
